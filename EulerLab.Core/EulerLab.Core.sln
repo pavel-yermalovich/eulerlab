@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EulerLab.Core", "EulerLab.Core\EulerLab.Core.csproj", "{D29191F9-10EF-41D0-9988-0817C61EFB2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EulerLab.Tests", "EulerLab.Tests\EulerLab.Tests.csproj", "{3E69DE2C-484C-42C7-9A81-AD295F07DC75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D29191F9-10EF-41D0-9988-0817C61EFB2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D29191F9-10EF-41D0-9988-0817C61EFB2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D29191F9-10EF-41D0-9988-0817C61EFB2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D29191F9-10EF-41D0-9988-0817C61EFB2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E69DE2C-484C-42C7-9A81-AD295F07DC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E69DE2C-484C-42C7-9A81-AD295F07DC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E69DE2C-484C-42C7-9A81-AD295F07DC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E69DE2C-484C-42C7-9A81-AD295F07DC75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
